@@ -1,6 +1,10 @@
 package pl.kdk.bazakotow.model;
 
 
+
+
+import pl.kdk.bazakotow.koty.domain.Cat;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;

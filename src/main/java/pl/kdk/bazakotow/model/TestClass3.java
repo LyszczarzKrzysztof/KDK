@@ -1,5 +1,7 @@
 package pl.kdk.bazakotow.model;
 
+import pl.kdk.bazakotow.koty.domain.Cat;
+
 import java.util.Scanner;
 
 import static pl.kdk.bazakotow.model.TestClass.parseStringToDate;

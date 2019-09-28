@@ -1,6 +1,9 @@
 package pl.kdk.bazakotow.model;
 
-import java.util.Date;
+
+
+import pl.kdk.bazakotow.koty.domain.Cat;
+
 import java.util.LinkedList;
 import java.util.List;
 

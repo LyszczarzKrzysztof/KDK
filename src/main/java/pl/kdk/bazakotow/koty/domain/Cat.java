@@ -1,4 +1,4 @@
-package pl.kdk.bazakotow.model;
+package pl.kdk.bazakotow.koty.domain;
 
 import java.util.Date;
 
